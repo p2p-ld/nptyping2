@@ -1,4 +1,8 @@
 # nptyping2
+
+> [!IMPORTANT]
+> Help wanted! Calling all python typing understanders who know how variadic generics are supposed to work <3
+
 nptyping, updated for [PEP 646](https://peps.python.org/pep-0646/)
 
 Instead of 
